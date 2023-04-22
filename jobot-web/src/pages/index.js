@@ -37,7 +37,7 @@ export default function Home() {
             />
 
             <Skills />
-            <h2 className="mx-auto mt-4 my-6 w-full max-w-4xl text-3xl  md:text-4xl font-medium text-center">Ronil's App V2</h2>
+            <h2 className="mx-auto mt-4 my-6 w-full max-w-4xl text-3xl  md:text-4xl font-medium text-center">Ronil&aposs App V2</h2>
           </div>
         )}
 
