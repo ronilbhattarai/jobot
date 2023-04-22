@@ -35,6 +35,7 @@ export default function Home() {
               sendMessages={sendMessages}
               placeholder="Ask me anything.."
             />
+            <h2>Ronil's App</h2>
 
             <Skills />
           </div>
